@@ -1,0 +1,20 @@
+Functionalities:
+    Add Tags
+    Navigation
+    Change Tag Content
+    Add / Remove / Replace Tailwind Classes
+    Tailwind Pseudo Classes
+    Yank / Paste / Delete
+    Count Support
+    Multi Selection & Uniform Move
+    Dot Repeat
+
+Challenges
+    Personal Issues
+    User Configuration
+    Documentation
+    Unconventional Approach
+    Extmarks vs vim.lsp.buf.format()
+
+Edge Cases
+    Paste Inside with count
