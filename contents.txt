@@ -1,3 +1,8 @@
+Questions:
+    What can this plug-in do?
+    Why make this plug-in?
+    Why not finish it?
+
 Functionalities:
     Add Tags
     Navigation
